@@ -18,10 +18,9 @@ html {
 }
 
 background: url(wallpapercave.com/wp/xpTXBEg.jpg){
-	background_size: cover}
+  background-size: cover;
   font: 18px/1.4 $helvetica;
-  color: $black;
-
+	color: $black;}
 
 .container {
   background-color: rgba(0, 255, 100, 0.7);
